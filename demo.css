@@ -1,0 +1,7 @@
+#carouselExample .card-body{
+    display: flex;
+}
+#carouselExample img{
+    height: max-content;
+    padding-right: 20px;
+}
